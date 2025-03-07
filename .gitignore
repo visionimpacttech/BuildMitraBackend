@@ -10,5 +10,9 @@ yarn.lock
 .idea/
 .vscode/
 coverage/
+<<<<<<< HEAD
 .env
 config/serviceAccountKey.json
+=======
+.vercel
+>>>>>>> 685ef62 (next commit)
